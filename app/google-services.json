@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178823544858",
+    "firebase_url": "https://video-170812.firebaseio.com",
+    "project_id": "video-170812",
+    "storage_bucket": "video-170812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178823544858:android:10d3ea8f5215d03d",
+        "android_client_info": {
+          "package_name": "com.enchcrop.andriodchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178823544858-l7u2fjlq28bo0riaat6sh2cro1o1da07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enchcrop.andriodchat",
+            "certificate_hash": "d2e92a24e6605569be771d74c74c37b084b5e5fa"
+          }
+        },
+        {
+          "client_id": "178823544858-jf64jqtrlkogo52r19cm9gnefqd3ulda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNV5wPhd-8Ey35PA3-Unh7y2K8Rku9mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178823544858-jf64jqtrlkogo52r19cm9gnefqd3ulda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
